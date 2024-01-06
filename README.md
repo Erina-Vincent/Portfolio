@@ -75,6 +75,8 @@
       <p>LinkedIn: linkedin.com/in/yourname</p>
       <p>GitHub: github.com/yourusername</p>
     </section>
+    <br>
+  <center> <img src = "https://funmauj.b-cdn.net/test/369984.jpg" height = 303px width = 200/> </center>    
   </main>
 
   <footer>
