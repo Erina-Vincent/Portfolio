@@ -76,6 +76,7 @@
       <p>LinkedIn: linkedin.com/in/yourname</p>
       <p>GitHub: github.com/yourusername</p>
     </section>
+    
   </main>
 
   <footer>
