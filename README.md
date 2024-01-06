@@ -80,7 +80,7 @@
   </main>
 
   <footer>
-    &copy; 2024 Your Portfolio. All rights reserved.
+    &copy; 2024 Portfolio. All rights reserved.
   </footer>
 
 </body>
